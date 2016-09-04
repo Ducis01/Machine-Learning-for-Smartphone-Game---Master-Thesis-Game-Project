@@ -1,4 +1,4 @@
-# Machine-Learning-for-Smartphone-Game---Master-Thesis-Game-Project
+# Machine Learning for Smartphone Game -- Master Thesis - Game-Project by A. VM and Ducis01
 Unity game repository for a test application to show the resolution of a concept described during the master thesis @ UCL on Machine Learning for Smartphones Games.
 
 
